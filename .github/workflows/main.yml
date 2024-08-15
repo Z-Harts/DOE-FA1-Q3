@@ -10,7 +10,7 @@ on:
 
 jobs: 
   Deploy-development:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
 
     steps:
       - name: "checkout code"
